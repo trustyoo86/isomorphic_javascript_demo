@@ -8,7 +8,19 @@ Client, Server codes in src folder.
 
 ##Usage
 
-If you run development mode, type command on shell
+Install dependencies
 
+`$npm install`
+
+Run development mode
 `$npm run start`
+
+Run codes build
+
+`$npm run build`
+
+Run application with build codes
+
+`$npm run prodstart`
+
 
