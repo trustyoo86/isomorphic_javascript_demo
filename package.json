@@ -10,6 +10,20 @@
     "prod": "rm -rf dist/; NODE_ENV=production npm run webpack; gulp prod",
     "prodstart": "PORT=80 NODE_ENV=production node src/server"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/trustyoo86/isomorphic_javascript_demo.git"
+  },
+  "keywords" : [
+    "react",
+    "isomorphic",
+    "javascript",
+    "universal javascript",
+    "isomorphic javascript",
+    "server side rendering",
+    "redux",
+    "webpack"
+  ],
   "dependencies": {
     "assets-webpack-plugin": "^3.2.0",
     "babel-polyfill": "^6.3.14",
